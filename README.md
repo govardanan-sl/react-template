@@ -1,4 +1,4 @@
-#React-Template
+# React-Template
 Create React apps with no build configuration or create-react-app
 
 ## Quick Overview
